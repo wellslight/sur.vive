@@ -1,0 +1,138 @@
+You are on the final transport off Earth. 
+The rising sea levels combined with the nuclear fallout has left most of the world's major cities uninhabitable.
+
+		   ^ pilot ^
+	———————————————————————-
+	 1A  |  1B  |     | 1C |
+	———————————————————————-
+	 2A  |  2B  |     | 2C |
+	———————————————————————-
+EmergEx	 3A  |  3B  |     | 3C | EmergEx
+	———————————————————————-
+	 4A  |  4B  |     | 4C |
+	———————————————————————-
+		  V storage V
+
+
+Earth still had habitable zones, away from the rising sea levels, the unpredictable hurricanes, the acid rains, and the quarantined nuclear fallout zones. 
+But it was impractical to build new cities within those habitable zones. 
+According to the Center for Climate Science the habitable zones, also called green zones, would continue to shrink until they all became yellow zones, and eventually red zones.
+
+Yellow zones were areas that people could survive, and if you're lucky maybe even grow some of the more durable crops.  
+But the weather was so unpredictable that nobody could maintain any real life there.
+The power grids in the yellow zones had gone down years ago and were deemed unfit for repair.
+
+Red zones were the places you didn't go. The places where the temperature was too high to be habitable. 
+The places where the radiation from the thermonuclear wars, or nuclear reactor meltdowns, made them unlivable for a lifetime or two.
+
+We needed a long-term solution. So we invested in space colonization. 
+Every intact government, every major corporation with resources, every engineer and scientist joined the effort. And it paid off. 
+Most people who lived in the green zones when the Moon and Mars colonies were established were evacuated over a span of 10 years.
+The yellow and red zones had been out of contact for most of that time. Sweeps of the yellow zones over those 10 years allowed a lot of people the opportunity to evacuate.
+
+At least that was the case among the United Nations, who led the space colonization initiative. 
+At this point every populated country belonged to the United Nations except Russia, who led the nuclear attacks on the United States and several European countries.
+This was before evacuation was even considered, and the war dwindled as countries focused their efforts on saving themselves from the planet, although tensions remained.
+Syria and Iran had initially backed Russia, but as their climate situation escalated and Russia did not aide them, they were offered a truce by the United Nations and accepted.
+
+It was assumed that the majority of the planet was empty, and anyone left behind was either dead or soon would be. 
+Many in the United Nations suspect that Russia still has a few camps in their northernmost regions. 
+Their own space colonization initiative was unexpectedly very successful. They had effectively established a cloud city of sorts in the atmosphere of Venus.
+An incredibly dangerous task that no doubt cost them many lives and most of their wealth.
+
+Now here you are, transporting the final group of humans leaving earth. You have made the trip before. You've been to the colonies. You've even seen the Russian's cloud city.
+It was remarkable, held up by massive zeppelin-like structures, kept at just the right density to stay afloat. 
+The thought of the crushing, burning atmosphere below barely seemed to cross the minds of those living there, though. 
+You took a Peace Ambassador there to try to ease the tensions between Russia and the United Nations.
+
+As a pilot for the United Nations you get around a lot. Your current task is to escort the Ambassador of Norway, Lisbeth Johannessen, to the Mars colony, Ares III.
+Norway was the last habitable refugee center operated by the United Nations. This will likely be the last transport to or from Earth for many years. 
+It's early morning, you've just reached 20,000 feet, and you are currently flying on the border of a yellow zone as part of your ascent.
+
+Now, the reading on your navigation flashes and alerts you of an imminent collision. This isn't the first time this has happened.
+The density of the clouds has reached levels that sometimes throws off old aircraft's readings, and there is a cluster of clouds ahead. What will you do?
+
+a. recalibrate the navigation system to account for the cloud density.
+b. adjust your course into the yellow zone to fly around the cloud cluster.
+c. ignore the alert and continue through the cloud cluster.
+
+cons of each option:
+
+a. recalibrating will require 2-3 minutes of flying without navigation and without a collision detection system while you update the parameters.
+b. adjusting course around the cloud cluster will require you to fly over a yellow zone with a risk of unpredictable air currents and weather conditions.
+c. ignoring the alert runs the risk of there actually being a collision that you hit.
+
+result of each option:
+
+a. shuttle is struck head on, you are injured, Ambassador Johannessen dies, you crash in the yellow zone. 
+b. shuttle is struck at tail because you turned in time, Ambassador Johannessen survives, you crash far into the yellow zone.
+c. shuttle is struck head on, you are injured, Ambassador Johannessen dies, 
+	you are able to guide the crash into the green zone and make communication that you are going down (green zone/communication if pass game task). 
+
+
+SCENARIO A
+
+You reboot the navigation and collision detection systems and enter the readings of the cloud density to adjust the parameters. 
+Once the screen goes black there are two loud explosions one after the other. Alarms go off all around you and you see that you've lost both of your core engines.
+Your navigation/collision detection system boots back up and alarms that another collision is imminent.
+You fire the accessory engines at full blast in an attempt to avoid the collision.
+
+[[ GAME HERE trying to stay in a circle by pushing a key repeatedly- S to go left, K to go right- This will determine how many miles from the green zone you land ]] 
+From your right you see what looks like a miniature jet fly directly into the center of your shuttle fuselage.
+
+SCENARIO C
+
+You silence the alarm and continue through the cloud cluster. There are two loud explosions at the back of the shuttle, one after the other. 
+Your screen shows that you've lost both of your core engines. From your right you see what looks like a miniature jet fly directly into the center of your shuttle fuselage.
+
+
+SCENARIO A/C
+
+You awaken in darkness surrounded by small blue and red lights flickering. You're alive. The cockpit's automatic eject worked, and you are surrounded by air filled sacks. 
+Your arm is cut open and bleeding pretty bad, and you are sore everywhere. You unbuckle, grab the first aid kit out of a compartment, and pour a sealing gel over the wound.
+
+When you get out of the cockpit you see that you've crash landed in the middle of a battered neighborhood. 
+Your watch beeps to notify you that you are taking on radiation: 35 mSv per hour.
+
+Your watch pulls up the calculation: one sievert (1000 mSv) causes radiation sickness - nausea, vomiting, and hemorrhage, but it wouldn't kill you.
+Five sieverts all but guarantees you will die within the month.
+So at this rate you have about 28 hours to get to a safer place or get rescue. 
+
+Were United Nations officials tracking your flight? Did they see you go down?
+There was no question whose missile it was. The United Nations only had one enemy. So the Russians did still have people on Earth. 
+Why attack now, and why a single ship on Earth? 
+
+The Ambassador.
+
+The UN Interplanetary Ship that was going to take you to Mars is orbiting Earth overhead. 
+You attempt to contact them, but your watch only has terrestrial range, and the shuttle's extraterrestrial amplifier must have been destroyed in the crash.
+You call the Ambassador but there is no answer. Since all UN employees are issued the same watch on a mandatory basis, she was no doubt wearing hers.
+Ambassadors were given special privilege as part of their tasks, and their watches were programmed with extraterrestrial communication.
+So if you could reach the Ambassador's watch, assuming she or the watch survived the explosions, you could communicate with the Interplanetary ship overhead.
+
+Your watch detects the passenger eject pod's signal about 12 miles South. That's about 4 hours of walking.
+Your watch also shows that the source of radiation is Southeast.
+You scale out and see that you are 50 miles Southeast of the nearest green zone- about 20 hours of walking.
+
+So you could leave now and make it to the green zone with only about 700 mSv, only twice the dose of people relocated from Chernobyl. 
+
+Or you can walk 4 hours South in hopes of obtaining the extraterrestrial communication watch from the passenger pod. 
+If you could communicate with the Interplanetary Ship they could send another transport to get you and any other survivors there may be.
+But you don't know how bad the radiation will be when you move closer to the source. 
+You are also in the heart of a yellow zone, which is known to have erratic storms.
+If the Ambassador's watch isn't there you would have spent 8 hours to get back to where you are now. 
+Assuming the radiation doesn't get worse, you could still make the 20 hour walk Northwest to the green zone. 
+That would put you at 1000 mSv and you would likely start to experience radiation sickness. 
+Keep in mind that once you reach the green zone you still need to find a way to communicate with the Interplanetary Ship.
+
+What will you do?
+
+d. start walking Northwest toward the green zone.
+e. start walking Southeast toward the passenger eject pod.
+
+
+
+
+
+
+

@@ -1,0 +1,116 @@
+
+let x=10
+cycle
+let x=x-1
+repeat until x=0
+Print "Now boarding Shuttle A07H, please have your passcard ready."
+end
+
+Input "Come forward, what is your name?", name$
+Print
+Input "Thanks, and what is your ID number?", n$
+Cls
+Print "Welcome "; name$;
+Print "Please step forward and enter your ID number."
+
+*** try to figure out how to save game with ID number (n$)
+
+Cls
+Input "Enter ID number"; id$
+If id$=n$ then
+Print "Thank you"; name$
+Print "You may board, we will be departing shortly."
+Else
+Print "Invalid ID number"
+Endif
+End
+
+cls
+Data "Monday", "Tuesday", "Wednesday"
+Data "Thursday", "Friday", "Saturday"
+Data "Sunday"
+Dim DaysOfWeek$7
+For DayNo = 1 TO 7 loop
+Read DaysOfWeek$ (DayNo)
+Repeat
+For DayNo = 1 TO 7 loop
+Print "Day of the week number"; DayNo;
+Print " is "; DaysOfWeek$ (DayNo)
+Repeat
+End
+
+Cls
+Let lives=3
+
+Printat (41,0); "You have "; lives; "lives left"
+Printat (0,0); "Welcome to Get Off The Earth"
+
+Printat (15,15); "Press the Spacebar to continue..."
+While inkey <> 32 cycle
+Repeat
+
+***story part
+
+Cls
+Print "You are on the final transport off Earth."
+Print "The rising sea levels combined with the nuclear fallout have left most of the world's major population centers uninhabitable."
+Print "You have been employed by the United Nations as a security liaison. Your current task is to escort the Ambassador of Norway, Lisbeth Johannessen, to the Mars colony, Ares III."
+Print "Immediately prior to boarding you were alerted by the UN Secretary that the Alert level has been raised to an 8 with concerns for a Russian sattelite coming in close proximity to your transport."
+Input "Where would you like Lisbeth Johannessen to sit?
+
+
+		   ^ pilot ^
+	———————————————————————-
+	 XX  |  1B  |     | XX |
+	———————————————————————-
+	 2A  |  2B  |     | XX |
+	———————————————————————-
+EmergEx	 XX  |  3B  |     | 3C | EmergEx
+	———————————————————————-
+	 4A  |  XX  |     | XX |
+	———————————————————————-
+		  V storage V
+
+", lisbethseat$
+
+
+*** If lisbethseat$ = "1B" then
+
+Print "Lisbeth sits in"; listbethseat$
+Print "Everyone please be seated and prepare for departure."
+
+let x=10
+cycle
+Print t minus x
+let x=x-1
+repeat until x=0
+Print "We have liftoff."
+end
+
+Print "The shuttle approaches a stormcell, a red light overhead alerts passengers to stay seated."
+Print "The turbulence settles and the shuttle breaks through the clouds."
+Print "An alarm sounds for several seconds. The pilot steps out and asks you to come to the cockpit."
+
+Print "Her system is alerting of an imminent collision. As the UN Liaison, she is asking for your authorization to deviate course into a red zone. 
+       She tells you this isn't uncommon with older shuttles. The cloud density has reached levels that sometimes throw off uncalibrated radars.
+       It is up to you to decide whether to recalibrate, proceed forward through a cloud cluster, or to deviate into a red zone that has not been cleared by UN Flight Plan Security "
+
+Print " Recalibrating will require 2-3 minutes of flying without navigation and without a collision detection system.
+	Adjusting course around the cloud cluster will require you to fly into a into a red zone with a risk of unpredictable air currents and weather conditions.
+	Continuing through the cloud density and ignoring the alert runs the risk of an actual collision.
+
+
+Input " What will you direct the pilot to do? 
+             RECALIBRATE the navigation system to account for the cloud density.(Type 'RECALIBRATE')
+	     ADJUST course into the red zone. (Type 'ADJUST')
+	     CONTINUE through the cloud density. (Type 'CONTINUE')"; flight$
+
+If flight$ = "RECALIBRATE" then
+Print "The pilot shuts down the navigation system, collision detection system, and begins recalibration."
+Print "... waiting for calibration ..."
+Print " "
+
+If flight$ = "ADJUST" then
+Print ""
+
+Print "The sky turns from blue to black as you depart the atmosphere."
